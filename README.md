@@ -7,8 +7,9 @@
 ```
 education/
 ├── read-books/                    阅读相关
+│   ├── 国际对标-硅谷与纽约.md      英文能力对标体系（标准 · 差距 · 补强方案）
+│   ├── english-book.md            英文阅读视听资源总库
 │   ├── 《Percy Jackson》.md        波西·杰克逊完全指南（书目百科 + 阅读方案）
-│   ├── english-book.md            英文书单与资源汇总（待整理）
 │   └── books-finished.md          已读/在读书目记录
 └── video/                         视听相关
     └── english-video.md           英文视频资源（规划中）
@@ -18,6 +19,7 @@ education/
 
 | 文档 | 内容 | 状态 |
 | :-- | :-- | :-- |
+| [国际对标-硅谷与纽约](read-books/国际对标-硅谷与纽约.md) | 对标美国湾区强学区与纽约优质校：CCSS 蓝思带、MAP RIT 百分位、文本类型比例、五维能力标尺、差距诊断与补强方案、G5–G12 里程碑 | ✅ 已完成 |
 | [《Percy Jackson》](read-books/《Percy Jackson》.md) | Riordanverse 全系列书目百科、蓝思值汇总、12 周阅读计划、希腊神话速查、亲子讨论题库、40+ 本相似作品推荐 | ✅ 已完成 |
 | [english-book.md](read-books/english-book.md) | 英文阅读视听总库：高优先阅读总表（含购买/阅读进度勾选）、20 部奇幻延伸对比、播客 12 选、YouTube 科学频道 20 选、12 周执行路线图 | ✅ 已完成 |
 | [books-finished.md](read-books/books-finished.md) | 已读书目与 Adam Kay 系列难度梯度 | 📝 持续更新 |
