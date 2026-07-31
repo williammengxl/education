@@ -19,7 +19,7 @@ education/
 | 文档 | 内容 | 状态 |
 | :-- | :-- | :-- |
 | [《Percy Jackson》](read-books/《Percy Jackson》.md) | Riordanverse 全系列书目百科、蓝思值汇总、12 周阅读计划、希腊神话速查、亲子讨论题库、40+ 本相似作品推荐 | ✅ 已完成 |
-| [english-book.md](read-books/english-book.md) | 英文书单、播客、影视资源的原始汇总 | 📝 待结构化整理 |
+| [english-book.md](read-books/english-book.md) | 英文阅读视听总库：高优先阅读总表（含购买/阅读进度勾选）、20 部奇幻延伸对比、播客 12 选、YouTube 科学频道 20 选、12 周执行路线图 | ✅ 已完成 |
 | [books-finished.md](read-books/books-finished.md) | 已读书目与 Adam Kay 系列难度梯度 | 📝 持续更新 |
 | [english-video.md](video/english-video.md) | 英文视频/YouTube 频道推荐 | 🚧 待撰写 |
 
