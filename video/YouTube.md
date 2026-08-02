@@ -1,1 +1,0 @@
-SciShow.png
