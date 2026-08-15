@@ -14,6 +14,7 @@ education/
 │   ├── 《Percy Jackson》.md        波西·杰克逊完全指南（书目百科 + 阅读方案）
 │   └── books-finished.md          已读/在读书目记录
 ├── video/                         视听相关
+│   ├── YouTube.md                 科学/STEM 视频频道清单（22 个频道 + 观看阅读联动）
 │   └── english-video.md           英文视频资源（规划中）
 └── tools/                         工具与方法
     └── 教育类AI工具推荐.md         教育向 AI 工具全景指南（家庭 + 国际教育）
@@ -29,7 +30,8 @@ education/
 | [《Percy Jackson》](read-books/《Percy Jackson》.md) | Riordanverse 全系列书目百科、蓝思值汇总、12 周阅读计划、希腊神话速查、亲子讨论题库、40+ 本相似作品推荐 | ✅ 已完成 |
 | [english-book.md](read-books/english-book.md) | 英文阅读视听总库：高优先阅读总表（含购买/阅读进度勾选）、20 部奇幻延伸对比、播客 12 选、YouTube 科学频道 20 选、12 周执行路线图 | ✅ 已完成 |
 | [books-finished.md](read-books/books-finished.md) | 已读书目与 Adam Kay 系列难度梯度 | 📝 持续更新 |
-| [english-video.md](video/english-video.md) | 英文视频/YouTube 频道推荐 | 🚧 待撰写 |
+| [YouTube.md](video/YouTube.md) | 9–15 岁科学/STEM 频道清单：22 频道总览表、五类分场景详表、偏好速查、难度梯度、视频+阅读联动计划、家长管控建议 | ✅ 已完成 |
+| [english-video.md](video/english-video.md) | 英文影视资源推荐 | 🚧 待撰写 |
 | [教育类AI工具推荐](tools/教育类AI工具推荐.md) | 教育向 AI 工具全景指南：16 款总览对比表、七类分场景详表（通用助手/语言/学科/阅读检索/教师备课/留学备考/国内补充）、场景速查、家庭短名单、合规与风险 | ✅ 已完成 |
 
 ## 使用约定
