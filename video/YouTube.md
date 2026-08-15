@@ -11,30 +11,32 @@
 
 ## 一、总览表（22 个频道）
 
+> 频道名即官方链接，可直接点击；完整链接汇总见[第七节](#七官方链接汇总)。
+
 | # | 频道 | 主题领域 | 教育价值 | 风格 | 适龄 | 出品方／背景 |
 | :-: | --- | --- | :-: | --- | :-: | --- |
-| 1 | **Mark Rober** | 大型趣味工程 | ⭐⭐⭐⭐ | 高制作、幽默、震撼 | 9–15 | 前 NASA JPL 工程师 |
-| 2 | **CrunchLabs** | 工程搭建教学 | ⭐⭐⭐⭐⭐ | 配套订阅盒子 | 9–14 | Mark Rober 创立 |
-| 3 | **The Action Lab** | 极端物理实验 | ⭐⭐⭐⭐ | 简洁、快节奏 | 10–15 | 独立创作者 |
-| 4 | **Steve Mould** | 物理化学现象 | ⭐⭐⭐⭐⭐ | 冷静幽默、讲解清晰 | 10–15 | 英国科普作家 |
-| 5 | **Science Max** | 小实验放大版 | ⭐⭐⭐⭐ | 儿童向、安全趣味 | 8–13 | 加拿大 TVOKids |
-| 6 | **The Slow Mo Guys** | 高速摄影 | ⭐⭐⭐ | 视觉震撼、幽默 | 10–15 | Gav & Dan |
-| 7 | **Physics Girl** | 物理实验 | ⭐⭐⭐⭐ | 热情、亲和 | 11–15 | Dianna Cowern（见备注） |
-| 8 | **Kurzgesagt – In a Nutshell** | 宇宙、生物、未来 | ⭐⭐⭐⭐⭐ | 精美动画、发人深省 | 12–15 | 德国动画工作室 |
-| 9 | **MinutePhysics** | 物理概念 | ⭐⭐⭐⭐ | 简笔手绘、极快 | 11–15 | Henry Reich |
-| 10 | **TED-Ed** | 跨学科动画短课 | ⭐⭐⭐⭐⭐ | 多样化精美动画 | 10–15 | TED |
-| 11 | **SciShow / SciShow Kids** | 科学话题快讲 | ⭐⭐⭐⭐ | 更新频繁、紧跟热点 | Kids 6–10；主频道 11–15 | Complexly |
-| 12 | **Veritasium** | 物理工程深度探究 | ⭐⭐⭐⭐⭐ | 探究式、叙事强 | 12–15 | Derek Muller（物理教育学博士） |
-| 13 | **Operation Ouch!** | 人体与医学 | ⭐⭐⭐⭐⭐ | 爆笑、真实医院场景 | 8–13 | CBBC（英国 BBC 儿童频道） |
-| 14 | **Nucleus Medical Media** | 医学 3D 动画 | ⭐⭐⭐⭐⭐ | 专业医学可视化 | 12–15 | 医学插画机构 |
-| 15 | **Institute of Human Anatomy** | 真实标本解剖 | ⭐⭐⭐⭐⭐ | 真实、深入 | 13–15（家长把关） | 美国解剖教学机构 |
-| 16 | **xkcd's What If?** | 荒诞假设的严肃推演 | ⭐⭐⭐⭐⭐ | 极客幽默、简笔画 | 12–15 | Randall Munroe（见备注） |
-| 17 | **Numberphile** | 数学趣题 | ⭐⭐⭐⭐⭐ | 数学家闲聊式 | 12–15 | Brady Haran |
-| 18 | **Vsauce** | 脑洞科学与哲学 | ⭐⭐⭐⭐ | 层层深入、烧脑 | 12–15 | Michael Stevens |
-| 19 | **BBC Earth** | 自然纪录片 | ⭐⭐⭐⭐⭐ | 震撼画面、Attenborough 旁白 | 全龄 | BBC |
-| 20 | **Deep Look** | 微距生物 | ⭐⭐⭐⭐ | 唯美微观、4K | 10–15 | KQED / PBS |
-| 21 | **National Geographic Kids** | 动物与自然短片 | ⭐⭐⭐⭐ | 低龄友好 | 8–12 | 国家地理 |
-| 22 | **Nat Geo / 其他综合** | 跨领域纪录 | ⭐⭐⭐⭐ | 纪录片式 | 10–15 | 国家地理 |
+| 1 | **[Mark Rober](https://www.youtube.com/@MarkRober)** | 大型趣味工程 | ⭐⭐⭐⭐ | 高制作、幽默、震撼 | 9–15 | 前 NASA JPL 工程师 |
+| 2 | **[CrunchLabs](https://www.youtube.com/@CrunchLabs)** | 工程搭建教学 | ⭐⭐⭐⭐⭐ | 配套订阅盒子 | 9–14 | Mark Rober 创立 |
+| 3 | **[The Action Lab](https://www.youtube.com/@TheActionLab)** | 极端物理实验 | ⭐⭐⭐⭐ | 简洁、快节奏 | 10–15 | 独立创作者 |
+| 4 | **[Steve Mould](https://www.youtube.com/@SteveMould)** | 物理化学现象 | ⭐⭐⭐⭐⭐ | 冷静幽默、讲解清晰 | 10–15 | 英国科普作家 |
+| 5 | **[Science Max](https://www.youtube.com/@ScienceMax)** | 小实验放大版 | ⭐⭐⭐⭐ | 儿童向、安全趣味 | 8–13 | 节目由加拿大 TVOkids 制作；YouTube 频道名为 Science Max - Scholastic |
+| 6 | **[The Slow Mo Guys](https://www.youtube.com/@theslowmoguys)** | 高速摄影 | ⭐⭐⭐ | 视觉震撼、幽默 | 10–15 | Gav & Dan |
+| 7 | **[Physics Girl](https://www.youtube.com/@physicsgirl)** | 物理实验 | ⭐⭐⭐⭐ | 热情、亲和 | 11–15 | Dianna Cowern（见备注） |
+| 8 | **[Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt)** | 宇宙、生物、未来 | ⭐⭐⭐⭐⭐ | 精美动画、发人深省 | 12–15 | 德国动画工作室 |
+| 9 | **[MinutePhysics](https://www.youtube.com/@MinutePhysics)** | 物理概念 | ⭐⭐⭐⭐ | 简笔手绘、极快 | 11–15 | Henry Reich |
+| 10 | **[TED-Ed](https://www.youtube.com/@TEDEd)** | 跨学科动画短课 | ⭐⭐⭐⭐⭐ | 多样化精美动画 | 10–15 | TED |
+| 11 | **[SciShow](https://www.youtube.com/@SciShow) / [SciShow Kids](https://www.youtube.com/@SciShowKids)** | 科学话题快讲 | ⭐⭐⭐⭐ | 更新频繁、紧跟热点 | Kids 6–10；主频道 11–15 | Complexly |
+| 12 | **[Veritasium](https://www.youtube.com/@veritasium)** | 物理工程深度探究 | ⭐⭐⭐⭐⭐ | 探究式、叙事强 | 12–15 | Derek Muller（物理教育学博士） |
+| 13 | **[Operation Ouch!](https://www.youtube.com/@OperationOuch)** | 人体与医学 | ⭐⭐⭐⭐⭐ | 爆笑、真实医院场景 | 8–13 | CBBC（英国 BBC 儿童频道） |
+| 14 | **[Nucleus Medical Media](https://www.youtube.com/@NucleusMedicalMedia)** | 医学 3D 动画 | ⭐⭐⭐⭐⭐ | 专业医学可视化 | 12–15 | 医学插画机构 |
+| 15 | **[Institute of Human Anatomy](https://www.youtube.com/@theanatomylab)** | 真实标本解剖 | ⭐⭐⭐⭐⭐ | 真实、深入 | 13–15（家长把关） | 美国解剖教学机构 |
+| 16 | **[xkcd's What If?](https://what-if.xkcd.com)** | 荒诞假设的严肃推演 | ⭐⭐⭐⭐⭐ | 极客幽默、简笔画 | 12–15 | Randall Munroe（**网站／书，非视频频道**） |
+| 17 | **[Numberphile](https://www.youtube.com/@numberphile)** | 数学趣题 | ⭐⭐⭐⭐⭐ | 数学家闲聊式 | 12–15 | Brady Haran |
+| 18 | **[Vsauce](https://www.youtube.com/@Vsauce)** | 脑洞科学与哲学 | ⭐⭐⭐⭐ | 层层深入、烧脑 | 12–15 | Michael Stevens |
+| 19 | **[BBC Earth](https://www.youtube.com/@bbcearth)** | 自然纪录片 | ⭐⭐⭐⭐⭐ | 震撼画面、Attenborough 旁白 | 全龄 | BBC |
+| 20 | **[Deep Look](https://www.youtube.com/@deeplook)** | 微距生物 | ⭐⭐⭐⭐ | 唯美微观、4K | 10–15 | KQED / PBS |
+| 21 | **[Nat Geo Kids](https://www.youtube.com/@NatGeoKids)** | 动物与自然短片 | ⭐⭐⭐⭐ | 低龄友好 | 8–12 | 国家地理 |
+| 22 | **[National Geographic](https://www.youtube.com/@NatGeo)** | 跨领域纪录 | ⭐⭐⭐⭐ | 纪录片式 | 10–15 | 国家地理 |
 
 **两条重要备注**
 
@@ -148,6 +150,65 @@
 | **防无限刷** | 用播放列表代替首页推荐；约定单次时长，看完聊三分钟「学到了什么」 |
 | **兼作英语输入** | 优先开**英文字幕**而非中文；BBC Earth、TED-Ed 语速适中，适合精听 |
 | **看后延伸** | 按第五节配对表接书，把「看过」转成「读过」 |
+
+---
+
+## 七、官方链接汇总
+
+> **核验状态**：下列 YouTube 地址已于 2026-08 逐个访问核对，频道名与本清单一致（HTTP 200）。YouTube handle 由创作者自行设置，理论上可更改，若日后打不开请在 YouTube 内搜索频道名。
+
+### 7.1 YouTube 官方频道
+
+| # | 频道 | 官方地址 |
+| :-: | --- | --- |
+| 1 | Mark Rober | https://www.youtube.com/@MarkRober |
+| 2 | CrunchLabs | https://www.youtube.com/@CrunchLabs |
+| 3 | The Action Lab | https://www.youtube.com/@TheActionLab |
+| 4 | Steve Mould | https://www.youtube.com/@SteveMould |
+| 5 | Science Max | https://www.youtube.com/@ScienceMax |
+| 6 | The Slow Mo Guys | https://www.youtube.com/@theslowmoguys |
+| 7 | Physics Girl | https://www.youtube.com/@physicsgirl |
+| 8 | Kurzgesagt – In a Nutshell | https://www.youtube.com/@kurzgesagt |
+| 9 | MinutePhysics | https://www.youtube.com/@MinutePhysics |
+| 10 | TED-Ed | https://www.youtube.com/@TEDEd |
+| 11a | SciShow | https://www.youtube.com/@SciShow |
+| 11b | SciShow Kids | https://www.youtube.com/@SciShowKids |
+| 12 | Veritasium | https://www.youtube.com/@veritasium |
+| 13 | Operation Ouch! | https://www.youtube.com/@OperationOuch |
+| 14 | Nucleus Medical Media | https://www.youtube.com/@NucleusMedicalMedia |
+| 15 | Institute of Human Anatomy | https://www.youtube.com/@theanatomylab |
+| 17 | Numberphile | https://www.youtube.com/@numberphile |
+| 18 | Vsauce | https://www.youtube.com/@Vsauce |
+| 19 | BBC Earth | https://www.youtube.com/@bbcearth |
+| 20 | Deep Look | https://www.youtube.com/@deeplook |
+| 21 | Nat Geo Kids | https://www.youtube.com/@NatGeoKids |
+| 22 | National Geographic | https://www.youtube.com/@NatGeo |
+
+> 第 16 项 xkcd's What If? 无对应官方视频频道，见下表。
+
+### 7.2 官方网站与延伸资源
+
+| 项目 | 官方地址 | 用途 |
+| --- | --- | --- |
+| **What If?（xkcd）** | https://what-if.xkcd.com | 全部问答文章免费在线，**本项的正规入口**；YouTube 上同名内容多为他人改编 |
+| xkcd 漫画本体 | https://xkcd.com | Randall Munroe 的原始漫画站 |
+| CrunchLabs | https://www.crunchlabs.com | 订阅盒子购买与搭建教程（视频需配合实物） |
+| TED-Ed 课程站 | https://ed.ted.com | 每支动画配套 Think／Dig Deeper 练习，可当微课用 |
+| Operation Ouch!（CBBC） | https://www.bbc.co.uk/cbbc/shows/operation-ouch | 官方节目页；**完整剧集受英国区域限制**，YouTube 频道为全球可看的片段版 |
+| Kurzgesagt | https://kurzgesagt.org | 工作室官网，含科学来源文档（每支视频的参考文献） |
+| Deep Look（KQED） | https://www.kqed.org/deeplook | 官方节目页，含教师用资源 |
+| BBC Earth | https://www.bbcearth.com | 官方内容站 |
+| Nat Geo Kids | https://kids.nationalgeographic.com | 官方儿童站，图文与游戏 |
+| Steve Mould | https://www.stevemould.com | 作者官网，含其著作信息（*The Bacteria Book* 等） |
+
+### 7.3 访问与观看提示
+
+| 事项 | 说明 |
+| --- | --- |
+| **区域限制** | Operation Ouch! 的 BBC iPlayer 完整剧集仅限英国；其余频道全球可看 |
+| **优先订阅而非搜索** | 直接从上表进入并订阅，可避免搜到山寨或搬运频道 |
+| **Kurzgesagt 来源文档** | 官网每支视频附完整参考文献，适合教孩子「结论从哪来」 |
+| **TED-Ed 配套练习** | 用 ed.ted.com 而非 YouTube 观看，可同时做课后题 |
 
 ---
 
