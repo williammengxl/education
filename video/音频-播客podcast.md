@@ -80,6 +80,42 @@
 | 爱「发现故事」 | **Tumble、Forever Ago、Naturebang** |
 | 需完全放心的内容 | Smologies、Brains On!、But Why、Moment of Um |
 
+## 八、进阶新推荐（上方清单之外）
+
+> **当前进度**：已听完 **Operation Ouch! 播客** 与 **Tumble**；已定优先级 **Smash Boom Best、But Why、Wow in the World、Brains On!、Smologies**。  
+> 本节只列**上方清单未收录**的节目，按两种参照风格分组。集数与最后更新日期为 2026-08 实测，用于判断节目是否还活跃。
+
+### 8.1 组 A：类 Tumble（叙事、探究、科学发现的故事）
+
+| 播客 | 趣味性 | 教育价值 | 适龄 | 集数／最后更新 | 风格 | 推荐理由 |
+| --- | :-: | :-: | :-: | --- | --- | --- |
+| **[Terrestrials](https://www.wnycstudios.org/podcasts/radiolab-kids)** 🔍 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 9–14 | 87 集／2026-08 | 叙事 + 原创歌曲 | **本组首选**：Radiolab 的儿童线，Lulu Miller 主持，讲「听起来像编的、但 100% 真实」的自然故事；音效与叙事水准是全清单最高一档 |
+| **[CrowdScience](https://www.bbc.co.uk/programmes/p04d42rc)** 🔍 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 11–15 | 506 集／2026-08 | 提问驱动、全球视角 | BBC World Service 出品，把听众问题交给一线研究者追查；设有 kids special 专辑，每集约 26 分钟 |
+| **[Fun Kids Science Quest](https://www.funkidslive.com/radio/fun-kids-science-weekly/)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 9–13 | 618 集／2026-08 | 英式、每周科学新闻 | 英国 Fun Kids 电台，Dan 主持；固定环节 **Dangerous Dan** 讲「有点致命的科学」，与在读的 Horrible Science 同调。**原名 Fun Kids Science Weekly，现已改名** |
+| **[Sidedoor](https://podcasts.apple.com/us/podcast/sidedoor/id1168154281)** 🔍 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 12–15 | 253 集／2026-08 | 博物馆探秘、叙事强 | 史密森尼学会出品，Lizzie Peabody 带听众从「侧门」进入库房，讲藏品背后的科学与历史故事 |
+| **[Unexplainable](https://podcasts.apple.com/us/podcast/unexplainable/id1554578197)** 🔍 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 13–15 | 302 集／2026-08 | 悬念式、直面未知 | Vox 出品，专讲**科学还答不上来的问题**；对「科学不是标准答案集」这一点讲得极好，每周两更 |
+| **[Tai Asks Why](https://www.cbc.ca/listen/cbc-podcasts/204-tai-asks-why)** 🔍 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 10–15 | 47 集／**2024-04 起未更新** | 少年主持、追问到底 | CBC 出品，主持人 Tai Poole 从 12 岁做到 15 岁，Webby 获奖；追问意识、记忆、外星生命等大问题。**同龄人主持**是独特价值，当作 47 集片库听 |
+
+**组 A 建议顺序**：Terrestrials → Fun Kids Science Quest（英式、可日常跟更）→ CrowdScience → Tai Asks Why（片库）→ Sidedoor / Unexplainable（12 岁后再上）。
+
+### 8.2 组 B：类 Operation Ouch（医学、人体、幽默）
+
+| 播客 | 趣味性 | 教育价值 | 适龄 | 集数／最后更新 | 风格 | 推荐理由 |
+| --- | :-: | :-: | :-: | --- | --- | --- |
+| **[Sawbones](https://maximumfun.org/podcasts/sawbones/)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 13–15＊ | 591 集／2026-08 | 夫妻搭档、吐槽式 | 医生 Sydnee McElroy 与丈夫逐集扒医学史上荒唐、恶心、错误的疗法——**本质是音频版的 Kay's Marvellous Medicine**，主题契合度全场最高；**＊Apple 归类 Comedy、面向成人，须按单集筛选**，可从其 *Medical Questions for Kids* 特辑入门 |
+| **[Brains On Universe Presents… Puberty!](https://podcasts.apple.com/us/podcast/brains-on-universe-presents-puberty-the-podcast/id1894946662)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 9–14 | 9 集／2026-06 | 坦诚、不尴尬 | Brains On! 团队的青春期专题：身体在这几年到底发生什么。**正好覆盖孩子当前年龄**，且与已定优先级的 Brains On! 同源，信任成本为零 |
+| **[The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 12–15 | 247 集／2025-12（季间休息） | 英式喜剧圆桌 | BBC Radio 4，Brian Cox 与 Robin Ince 带科学家和喜剧演员同台；选题如「科学能否帮你完成完美谋杀」「草莓是活的还是死的」，英式幽默与 Kay's 一脉相承 |
+
+**组 B 建议顺序**：Puberty!（最贴当下年龄，9 集很快听完）→ The Infinite Monkey Cage → Sawbones（家长先筛过单集再放手）。
+
+### 8.3 评估后不列入及原因
+
+| 节目 | 不列入原因 |
+| --- | --- |
+| **Busy Bodies with Mr Snot Bottom** | 主题（鼻涕、喷嚏、感冒药原理）本来很像 Operation Ouch，但三个问题叠加：**2024-03 起已停更**（共 57 集）、每集仅约 7 分钟且面向低龄、完整收听需 Kinderling Premium 订阅。对读完 Kay's Anatomy 的孩子偏浅 |
+| **STEM with Dr. Owl** | 节目自述使用 **AI 合成配音**，内容准确性无独立背书 |
+| **The Curious Kidcast**、**What's Happening Inside Me?**、**Mini Medical Mysteries** | 均定位 4–12 岁且规模极小，其中 Mini Medical Mysteries 仅 5 集、2024-05 停更 |
+
 ---
 
 # 板块二 · 故事 / 神话
@@ -126,6 +162,9 @@
 | **自然与地球** | Naturebang | Deep Look、BBC Earth | **Explodapedia: Rewild** | 从自然现象走向生态责任 |
 | **科学史与通识** | Forever Ago、Stuff You Should Know | TED-Ed、Numberphile | A Short History of Nearly Everything（YR Ed.） | 起源故事串起科学通史 |
 | **碎片时间** | Moment of Um、Six Minutes | SciShow | Grossology、Horrible Science 短章 | 通勤、睡前、排队的低门槛输入 |
+| **医学史**（新） | Sawbones | Institute of Human Anatomy | **Kay's Marvellous Medicine**（已读）、Horrible Science: *Measly Medicine* | 三者都在讲「人类曾经怎么把病治错」，Sawbones 是这条线的音频延伸 |
+| **自然叙事**（新） | Terrestrials | Deep Look、BBC Earth | **Explodapedia: Rewild** | 从一个物种的真实故事走到生态系统与再野化 |
+| **青春期**（新） | Brains On Universe Presents… Puberty! | Operation Ouch! 频道 | Kay's Anatomy（已读）相关章节 | 正对当下年龄，把身体变化讲得坦诚不尴尬 |
 
 **三档起步组合**：Operation Ouch! 播客（医学兴趣，10 集可快速听完）+ Tumble（科学思维）+ Moment of Um 或 Short Wave（碎片时间）。
 
@@ -157,6 +196,20 @@
 | Naturebang | https://www.bbc.co.uk/programmes/m00060x0 | ✅ | BBC Radio 4；BBC Sounds：`bbc.co.uk/sounds/series/m00060x0` |
 | Six Minutes | https://gzmshows.com/six-minutes/ | ✅ | Gen-Z Media；站点有 Cloudflare 校验 |
 
+## 4.1b 进阶新推荐（第八节）
+
+| 播客 | 官方地址 | 状态 | 集数／最后更新 | 备注 |
+| --- | --- | :-: | --- | --- |
+| Terrestrials | https://www.wnycstudios.org/podcasts/radiolab-kids | ✅ | 87／2026-08 | WNYC；Apple：`id1504895463` |
+| CrowdScience | https://www.bbc.co.uk/programmes/p04d42rc | ✅ | 506／2026-08 | BBC World Service；BBC Sounds：`bbc.co.uk/sounds/brand/p04d42rc` |
+| Fun Kids Science Quest | https://www.funkidslive.com/radio/fun-kids-science-weekly/ | ✅ | 618／2026-08 | **已由 Fun Kids Science Weekly 改名**，Apple ID 未变：`id1247425397` |
+| Sidedoor | https://podcasts.apple.com/us/podcast/sidedoor/id1168154281 | ⚠️ | 253／2026-08 | 史密森尼官网 `si.edu/sidedoor` 与 `americanhistory.si.edu` 均返回 403（Cloudflare），故直接给 Apple 入口 |
+| Unexplainable | https://podcasts.apple.com/us/podcast/unexplainable/id1554578197 | ⚠️ | 302／2026-08 | Vox 官网 `vox.com/unexplainable` 本地连接超时，故直接给 Apple 入口 |
+| Tai Asks Why | https://www.cbc.ca/listen/cbc-podcasts/204-tai-asks-why | ✅ | 47／**2024-04** | **已两年余未更新**，按片库收听；Apple：`id1434443225` |
+| Sawbones | https://maximumfun.org/podcasts/sawbones/ | ✅ | 591／2026-08 | Apple 归类 Comedy、成人向；Apple：`id665149280` |
+| Puberty!（Brains On Universe） | https://podcasts.apple.com/us/podcast/brains-on-universe-presents-puberty-the-podcast/id1894946662 | ✅ | 9／2026-06 | Brains On! 团队青春期专题 |
+| The Infinite Monkey Cage | https://www.bbc.co.uk/programmes/b00snr0w | ✅ | 247／2025-12 | BBC Radio 4，处于季间休息 |
+
 ## 4.2 核验中更正的五处过时信息
 
 | 项目 | 原清单写法 | 实测结果 |
@@ -186,7 +239,10 @@
 | **低龄的干净替代** | 想听 Ologies 风格又要放心，直接订阅 **Smologies**（官方儿童安全版，G 级、无脏话、适合课堂） |
 | **别把 Operation Ouch! 播客当长期节目** | 仅 10 集且已完结，听完后转向其电视节目与 YouTube 频道 |
 | **兼作英语听力** | 儿童向节目（Brains On!、But Why、Tumble）语速适中、发音清晰，适合泛听；StarTalk 与 Stuff You Should Know 语速快、俚语多，适合进阶 |
-| **场景搭配** | 通勤与睡前用短节目（Moment of Um、Six Minutes、Short Wave），周末整块时间听叙事型（Tumble、Forever Ago） |
+| **场景搭配** | 通勤与睡前用短节目（Moment of Um、Six Minutes、Short Wave），周末整块时间听叙事型（Tumble、Forever Ago、Terrestrials） |
+| **Sawbones 须先筛单集** | 主题最贴 Kay's Marvellous Medicine，但节目面向成人、Apple 归类 Comedy，含成人话题与用词；建议从 *Medical Questions for Kids* 特辑入门，家长选好单集再放手听 |
+| **注意节目是否还在更新** | 第八节标了集数与最后更新日期：Tai Asks Why 停在 2024-04、The Infinite Monkey Cage 处于季间休息，这两档按片库听即可，别等更新 |
+| **已排除但可能搜到的节目** | Busy Bodies with Mr Snot Bottom 主题很像 Operation Ouch，但已停更、偏低龄且需付费订阅，见第 8.3 节说明 |
 
 ---
 
