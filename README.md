@@ -23,7 +23,10 @@ education/
     ├── 全球十大在线教育平台全.md   国际平台全解析（含所有权变更与免费资源）
     ├── 英文K-12在线辅导平台.md     英文 K-12 辅导（自学 · 刷题 · 真人 1对1 · 备考）
     ├── AstraNova创新学校.md        马斯克系颠覆式在线学校深度档案
-    └── 未来派创新学校与微型学校.md  Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比
+    ├── 未来派创新学校与微型学校.md  Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比
+    ├── AlphaSchool深度剖析.md      TimeBack闭环技术架构 · 三个反例 · 治理与政治捐款结构
+    ├── AI教育三种路径对比.md       Alpha School × Khanmigo × Synthesis 证据强度对比
+    └── Khanmigo苏格拉底提问深度分析.md  技术机制 · "绝不给答案"回撤史 · 认知科学六大理论支柱核验
 ```
 
 ## 文档索引
@@ -45,6 +48,9 @@ education/
 | [英文K-12在线辅导平台](online-platform/英文K-12在线辅导平台.md) | 英文 K-12 辅导四类速览：Khan/IXL 自学刷题、真人 1对1（Outschool/Wyzant/Preply，含 Remind/Paper 误传更正）、College Board×Khan 官方备考、选型表与官方链接核验 | ✅ 已完成 |
 | [AstraNova创新学校](online-platform/AstraNova创新学校.md) | 马斯克 Ad Astra→Astra Nova 深度档案：办学信息、第一性原理理念、Conundrum 与团队博弈课、学费与申请机制、**认证真相更正（非 WASC 认证）**、资深教育者点评 | ✅ 已完成 |
 | [未来派创新学校与微型学校](online-platform/未来派创新学校与微型学校.md) | Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比：四流派速览、逐校详表（认证/学费/形态）、六校对比表、**Synthesis 产品定位更正**、择校风险提醒与链接核验 | ✅ 已完成 |
+| [AlphaSchool深度剖析](online-platform/AlphaSchool深度剖析.md) | TimeBack 三层闭环技术架构解析、"全美前1-2%"信度分层、**三个脱离旗舰校的实测反例**（得州特许校/Brownsville/亚利桑那）、专家质疑清单、创始人 Trilogy 背景与关联方自我交易结构、政治捐款与监管套利路径、认知科学理论风险 | ✅ 已完成 |
+| [AI教育三种路径对比](online-platform/AI教育三种路径对比.md) | Alpha School × Khanmigo × Synthesis 深度对比：逐一技术核验（Khanmigo 的 NBER 两年 RCT 结果与"陪伴模式"回退、Synthesis 的 Tutor/Teams 产品拆分）、**新增证据强度维度**、修正后综合对比表、按证据可信度调整的决策建议 | ✅ 已完成 |
+| [Khanmigo苏格拉底提问深度分析](online-platform/Khanmigo苏格拉底提问深度分析.md) | Khanmigo技术附录：系统提示词起点与情境注入机制、护栏细节（含假阳性案例）、**"绝不给答案"设计回撤史**（原文引用+ITS文献依据）、认知科学六大理论支柱与Khan Academy论文引用交叉验证、NBER RCT揭示的参与度鸿沟、风险清单"假设→已验证"状态更新 | ✅ 已完成 |
 
 ## 使用约定
 
