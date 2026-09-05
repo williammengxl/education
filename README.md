@@ -26,7 +26,8 @@ education/
     ├── 未来派创新学校与微型学校.md  Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比
     ├── AlphaSchool深度剖析.md      TimeBack闭环技术架构 · 三个反例 · 治理与政治捐款结构
     ├── AI教育三种路径对比.md       Alpha School × Khanmigo × Synthesis 证据强度对比
-    └── Khanmigo苏格拉底提问深度分析.md  技术机制 · "绝不给答案"回撤史 · 认知科学六大理论支柱核验
+    ├── Khanmigo苏格拉底提问深度分析.md  技术机制 · "绝不给答案"回撤史 · 认知科学六大理论支柱核验
+    └── Khanmigo商业计划书.md       990财报数据 · 三边补贴商业模式 · 增长引擎与竞争格局
 ```
 
 ## 文档索引
@@ -51,6 +52,7 @@ education/
 | [AlphaSchool深度剖析](online-platform/AlphaSchool深度剖析.md) | TimeBack 三层闭环技术架构解析、"全美前1-2%"信度分层、**三个脱离旗舰校的实测反例**（得州特许校/Brownsville/亚利桑那）、专家质疑清单、创始人 Trilogy 背景与关联方自我交易结构、政治捐款与监管套利路径、认知科学理论风险 | ✅ 已完成 |
 | [AI教育三种路径对比](online-platform/AI教育三种路径对比.md) | Alpha School × Khanmigo × Synthesis 深度对比：逐一技术核验（Khanmigo 的 NBER 两年 RCT 结果与"陪伴模式"回退、Synthesis 的 Tutor/Teams 产品拆分）、**新增证据强度维度**、修正后综合对比表、按证据可信度调整的决策建议 | ✅ 已完成 |
 | [Khanmigo苏格拉底提问深度分析](online-platform/Khanmigo苏格拉底提问深度分析.md) | Khanmigo技术附录：系统提示词起点与情境注入机制、护栏细节（含假阳性案例）、**"绝不给答案"设计回撤史**（原文引用+ITS文献依据）、认知科学六大理论支柱与Khan Academy论文引用交叉验证、NBER RCT揭示的参与度鸿沟、风险清单"假设→已验证"状态更新 | ✅ 已完成 |
+| [Khanmigo商业计划书](online-platform/Khanmigo商业计划书.md) | 完整版商业计划书，分两部分：**商业规划**（三边补贴商业模式、真实990财报数据、三档财务预测情景、增长与竞争战略、风险管理）+ **产品设计**（用户画像、产品架构、从"苏格拉底回撤史"提炼的四条设计原则、真实时间线校准的功能路线图、北极星指标建议） | ✅ 已完成 |
 
 ## 使用约定
 
