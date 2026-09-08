@@ -22,6 +22,7 @@ education/
     ├── 儿童与青少年优质在线学习平台.md  40+ 平台评估（安全 · 体系 · 互动 · 适龄）
     ├── 全球十大在线教育平台全.md   国际平台全解析（含所有权变更与免费资源）
     ├── 英文K-12在线辅导平台.md     英文 K-12 辅导（自学 · 刷题 · 真人 1对1 · 备考）
+    ├── AI辅导软件-网站.md          类 Gauth 作业辅导/拍照解题盘点 + 教学法争议
     ├── AstraNova创新学校.md        马斯克系颠覆式在线学校深度档案
     ├── 未来派创新学校与微型学校.md  Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比
     ├── AlphaSchool深度剖析.md      TimeBack闭环技术架构 · 三个反例 · 治理与政治捐款结构
@@ -47,6 +48,7 @@ education/
 | [儿童与青少年优质在线学习平台](online-platform/儿童与青少年优质在线学习平台.md) | 40+ 平台按安全/体系/互动/适龄四维评估：综合、编程与 AI、语言阅读、科学探究、数学拔高五类详表，平台归属与运营状态变更（2024–2026），六张官方链接汇总表含核验状态，分龄组合与家长建议 | ✅ 已完成 |
 | [全球十大在线教育平台全](online-platform/全球十大在线教育平台全.md) | 国际平台全解析：十大平台逐一详表（含归属）、大学开放课程与免费资源、按需求与收费模式速查、**所有权变更行业洗牌（edX/Udacity/FutureLearn/Byju's/腾讯课堂）**、三张官方链接汇总表 | ✅ 已完成 |
 | [英文K-12在线辅导平台](online-platform/英文K-12在线辅导平台.md) | 英文 K-12 辅导四类速览：Khan/IXL 自学刷题、真人 1对1（Outschool/Wyzant/Preply，含 Remind/Paper 误传更正）、College Board×Khan 官方备考、选型表与官方链接核验 | ✅ 已完成 |
+| [AI辅导软件-网站](online-platform/AI辅导软件-网站.md) | 类 Gauth 作业辅导/拍照解题盘点：主流 10 款一览表、四类别详解（数学专精/全科问答/大学付费/AI 导师）、**Chegg 遭 AI 冲击行业动向**、快速选择指南、「答案交付 vs 促思考」教学法评语、官方链接核验 | ✅ 已完成 |
 | [AstraNova创新学校](online-platform/AstraNova创新学校.md) | 马斯克 Ad Astra→Astra Nova 深度档案：办学信息、第一性原理理念、Conundrum 与团队博弈课、学费与申请机制、**认证真相更正（非 WASC 认证）**、资深教育者点评 | ✅ 已完成 |
 | [未来派创新学校与微型学校](online-platform/未来派创新学校与微型学校.md) | Alpha/Khan Lab/Acton/Synthesis/Prenda 横向对比：四流派速览、逐校详表（认证/学费/形态）、六校对比表、**Synthesis 产品定位更正**、择校风险提醒与链接核验 | ✅ 已完成 |
 | [AlphaSchool深度剖析](online-platform/AlphaSchool深度剖析.md) | TimeBack 三层闭环技术架构解析、"全美前1-2%"信度分层、**三个脱离旗舰校的实测反例**（得州特许校/Brownsville/亚利桑那）、专家质疑清单、创始人 Trilogy 背景与关联方自我交易结构、政治捐款与监管套利路径、认知科学理论风险 | ✅ 已完成 |
