@@ -172,6 +172,7 @@
 | **防无限刷**   | 用播放列表代替首页推荐；约定单次时长，看完聊三分钟「学到了什么」                                |
 | **兼作英语输入** | 优先开**英文字幕**而非中文；BBC Earth、TED-Ed 语速适中，适合精听                      |
 | **看后延伸**   | 按第五节配对表接书，把「看过」转成「读过」                                           |
+| **危险实验**   | NileRed、NileBlue、The Backyard Scientist、ElectroBOOM 涉及明火、强酸、高压电，部分带粗口。10–13 岁请家长一起看，并说清楚：**屏幕里能做的，家里不能做** |
 
 
 ---
@@ -252,6 +253,73 @@
 | **Kurzgesagt 来源文档** | 官网每支视频附完整参考文献，适合教孩子「结论从哪来」                         |
 | **TED-Ed 配套练习**     | 用 ed.ted.com 而非 YouTube 观看，可同时做课后题                 |
 
+
+### 7.4 2026-10 新增频道官方链接
+
+> 订阅数为 2026-10 从官方频道页抓取的快照，只用于辨认官方号。本节频道的使用说明见[第八节](#八接近-cleo-abram--the-action-lab-的-10-个频道)。
+
+
+| 频道 | 订阅数 | 频道 ID | 官方地址 |
+| --- | --- | --- | --- |
+| Cleo Abram | 887 万 | UC415bOPUcGSamy543abLmRA | [https://www.youtube.com/@CleoAbram](https://www.youtube.com/@CleoAbram) |
+| SmarterEveryDay | 1190 万 | UC6107grRI4m0o2-emgoDnAA | [https://www.youtube.com/@smartereveryday](https://www.youtube.com/@smartereveryday) |
+| Stuff Made Here | 476 万 | UCj1VqrHhDte54oLgPG4xpuQ | [https://www.youtube.com/@StuffMadeHere](https://www.youtube.com/@StuffMadeHere) |
+| NileRed | 1100 万 | UCFhXFikryT4aFcLkLw2LBLA | [https://www.youtube.com/@NileRed](https://www.youtube.com/@NileRed) |
+| NileBlue | 361 万 | UC1D3yD4wlPMico0dss264XA | [https://www.youtube.com/@NileBlue](https://www.youtube.com/@NileBlue) |
+| Practical Engineering | 484 万 | UCMOqf8ab-42UUQIdVoKwjlQ | [https://www.youtube.com/@PracticalEngineeringChannel](https://www.youtube.com/@PracticalEngineeringChannel) |
+| Cody'sLab | 223 万 | UCu6mSoMNzHQiBIOCkHUa2Aw | [https://www.youtube.com/@theCodyReeder](https://www.youtube.com/@theCodyReeder) |
+| ElectroBOOM | 889 万 | UCJ0-OtVpF0wOKEqT2Z1HEtA | [https://www.youtube.com/@ElectroBOOM](https://www.youtube.com/@ElectroBOOM) |
+| The Backyard Scientist | 617 万 | UC06E4Y_-ybJgBUMtXx8uNNw | [https://www.youtube.com/@TheBackyardScientist](https://www.youtube.com/@TheBackyardScientist) |
+
+
+> Cody'sLab 的旧地址 `@CodysLab` 已失效，现用 `@theCodyReeder`。NileBlue 简介写明主频道是 NileRed。
+
+---
+
+## 八、接近 Cleo Abram / The Action Lab 的 10 个频道
+
+> **整理日期**：2026-10  
+> **挑选标准**：和 **Cleo Abram**（把科技做成乐观、叙事清楚的大事件）或 **The Action Lab**（用反直觉实验讲物理）最接近。  
+> **适龄**：本节写到 18 岁，比全文「9–15 岁」略宽，方便往中学延伸。  
+> 已在[第一节总览](#一总览表22-个频道)里的频道不重复建档，只标「已收录」。新增频道的官方地址与订阅数见[7.4](#74-2026-10-新增频道官方链接)。
+
+**风格参照（本身不列入儿童主力）**：[Cleo Abram](https://www.youtube.com/@CleoAbram)（2026-10 约 887 万订阅）做乐观科技解说，频道名常与 *Huge If True* 一起出现。节奏和制作接近纪录片，适合 **14 岁以上** 当风格样本，不是 8–12 岁的日常频道。
+
+### 8.1 核心 10 个
+
+
+| # | 频道 | 适龄 | 方向 | 和参照的关系 | 状态 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | **[Mark Rober](https://www.youtube.com/@MarkRober)** | 8–18 | 工程 + 科学挑战 | 和 Cleo Abram 最像：把科学做成一场大事件。NASA 工程师出身，抛球机、泳池可乐、松鼠障碍赛。节奏快、基本无脏话 | 已收录 |
+| 2 | **[Steve Mould](https://www.youtube.com/@SteveMould)** | 10–18 | 日常物理实验 | 和 The Action Lab 最接近。厨房材料演示流体、表面张力、偏振光，并给出清楚的物理解释 | 已收录 |
+| 3 | **[The Slow Mo Guys](https://www.youtube.com/@theslowmoguys)** | 8–18 | 高速摄影 + 物理 | 十万帧拍气球、玻璃、水球。视觉冲击强，速度、动量、材料断裂几乎不用解说也能看懂 | 已收录 |
+| 4 | **[Veritasium](https://www.youtube.com/@veritasium)** | 12–18 | 科学思维 + 物理 | 从反直觉问题切入（雨滴形状、电流速度），再采访科学家、做实验验证 | 已收录 |
+| 5 | **[Physics Girl](https://www.youtube.com/@physicsgirl)** | 10–16 | 动手物理 | 家庭可复现的小实验，也有航天合作内容。风格轻松 | 已收录；**2022 年起因病基本停更，当片库看** |
+| 6 | **[SmarterEveryDay](https://www.youtube.com/@smartereveryday)** | 10–18 | 慢镜头 + 工程探索 | Destin 用慢镜头拆直升机、子弹、猫落地、蜂群，并进火箭工厂实地拍。信息密，但讲解清楚 | **新增** |
+| 7 | **[Stuff Made Here](https://www.youtube.com/@StuffMadeHere)** | 12–18 | 创意工程挑战 | 从设计、失败到成功全程公开（不会输的投篮机器人、自动理发机械臂）。工程思维素材很好，更新少、单集很长 | **新增** |
+| 8 | **[Kurzgesagt](https://www.youtube.com/@kurzgesagt)** | 12–18 | 动画科普 | 德式动画讲黑洞、免疫、人口、「如果太阳消失」。适合喜欢系统知识的孩子 | 已收录 |
+| 9 | **[Vsauce](https://www.youtube.com/@Vsauce)** | 12–18 | 趣味知识 + 哲学提问 | 从「沙子有多少」「什么是随机」聊到时间与自我。语速偏快，建议再大一点看 | 已收录 |
+| 10 | **[SciShow](https://www.youtube.com/@SciShow)** | 10–18 | 趣味科学问答 | Hank Green 团队短科普，生物、化学、天文都有，适合碎片时间。低龄用 **SciShow Kids** | 已收录 |
+
+
+**8–12 岁先看**：Mark Rober、The Slow Mo Guys、Physics Girl（片库）、SciShow / SciShow Kids。  
+**13 岁以上再加**：Veritasium、Vsauce、Kurzgesagt、Stuff Made Here。理解深度会跟得上。
+
+### 8.2 按方向补位
+
+
+| 方向 | 频道 | 说明 | 状态 |
+| --- | --- | --- | --- |
+| 化学实验 | [NileRed](https://www.youtube.com/@NileRed) / [NileBlue](https://www.youtube.com/@NileBlue) | 视觉效果很强的化学反应。NileBlue 是 NileRed 的副频道，语气更松，但实验风险一样 | 新增；**不要在家模仿** |
+| 硬核物理化学 | [Cody'sLab](https://www.youtube.com/@theCodyReeder) | 地质、提炼、电化学。节奏慢，内容扎实，适龄偏 13+ | 新增 |
+| 动手工程 | [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel) | 土木工程师 Grady Hillhouse 讲桥梁、水坝、地基为什么这样设计 | 新增 |
+| 课堂短片 | [TED-Ed](https://www.youtube.com/@TEDEd) / [MinutePhysics](https://www.youtube.com/@MinutePhysics) | 5–10 分钟动画，适合当课堂补充 | 已收录 |
+| 中文科普 | 李永乐老师、妈咪说 MommyTalk | 中文讲物理、数学、生活科学，适合英文还不熟练的孩子 | **本次未核到可确认的官方 YouTube 地址**，请在站内按全名搜索并核对订阅量级，勿点同名小号 |
+
+
+### 8.3 安全分级
+
+NileRed、NileBlue、[The Backyard Scientist](https://www.youtube.com/@TheBackyardScientist)、[ElectroBOOM](https://www.youtube.com/@ElectroBOOM) 涉及明火、强酸、高压电，ElectroBOOM 还带表演性质的粗口和故意触电。10–13 岁建议家长一起看，并明确：**屏幕里能做的，家里不能做。** Cody'sLab 的提炼与高温实验同样不要模仿。
 
 ---
 
